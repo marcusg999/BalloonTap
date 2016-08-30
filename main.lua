@@ -3,7 +3,7 @@ background.x = display.contentCenterX
 background.y = display.contentCenterY
 
 --loading the platform
-local platform = display.newImageRect("background.png", 300, 80)
+local platform = display.newImageRect("background.png", 300, 50)
 platform.x = display.contentCenterX
 platform.y = display.contentHeight -25
 
